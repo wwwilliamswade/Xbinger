@@ -1,4 +1,4 @@
-import requests,sys
+import requests
 from bs4 import BeautifulSoup as S
 from multiprocessing import Pool
 import argparse
