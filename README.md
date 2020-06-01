@@ -1,5 +1,4 @@
 # Xbinger
-Bing Dorker Tool written in python3
 root@kali:~/Xbinger# python3 Xbinger.py -h
 usage: Xbinger.py [-h] [-d DORK] [-p PAGE] [-o OUTPUT]                       
                                                                              
